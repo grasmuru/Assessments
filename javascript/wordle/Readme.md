@@ -1,5 +1,10 @@
 Look at the basic wordle implementation provided
 
+As a first step some basic and subtle bugs have been introduced by a programmer who copied the code from a tutorial
+As a first step try out the implementation and then find and correct the basic functioning errors
+
+After you have fixed the basic implementation you have the following situation
+
 Two developers have a dispute as to who is a better wordle player and like to up the wordle requirements to compare their skills better
 
 Modify the existing attached wordle code to: 
