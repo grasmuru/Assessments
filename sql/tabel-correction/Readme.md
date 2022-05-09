@@ -22,7 +22,7 @@ taking turns or swopping courses with lecturers who may be focusing on other fie
 Please design + create a database schema that covers the above specifications and show the resulting database diagram displaying all entities & relationships.  
 Also please send the script that will create this database with all tables, constraints, keys, default values, identity specifications, column data types etc.
 
-![current db layout](./sql-denormalised-tables.png)
+
 
 ## SECTION 2
 Based on the above, Lorem Ipsum University realised that they also need a data structure to keep track of scheduled exams.  Exams are taken in person and there is one exam for each module (per semester)
@@ -34,6 +34,7 @@ Based on the above, Lorem Ipsum University realised that they also need a data s
 Somebody in the admin department started designing a rough database / entity structure as per the included diagram, but then realised their database isn't fully normalised and is missing some information.
 Please fix it for them.
 
+![current db layout](./sql-denormalised-tables.png)
 
 ## SECTION 3
 After fixing the structure and integrating it with section 1, please write 2 simple optimised queries that will generate the exam time table per student, as well as a list of all students that should be 
