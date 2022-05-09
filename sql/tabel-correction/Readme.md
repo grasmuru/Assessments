@@ -1,5 +1,3 @@
-![current db layout](./sql-denormalised-tables.png)
-
 ## SECTION 1 
 
 Lorem Ipsum University needs some help designing a basic database to keep track of courses offered, enrolled students, exam schedules and employed lecturers.
@@ -24,6 +22,7 @@ taking turns or swopping courses with lecturers who may be focusing on other fie
 Please design + create a database schema that covers the above specifications and show the resulting database diagram displaying all entities & relationships.  
 Also please send the script that will create this database with all tables, constraints, keys, default values, identity specifications, column data types etc.
 
+![current db layout](./sql-denormalised-tables.png)
 
 ## SECTION 2
 Based on the above, Lorem Ipsum University realised that they also need a data structure to keep track of scheduled exams.  Exams are taken in person and there is one exam for each module (per semester)
