@@ -1,4 +1,6 @@
-========== SECTION 1 ==========
+![current db layout](./sql-current-tables.jpg)
+
+## SECTION 1 
 
 Lorem Ipsum University needs some help designing a basic database to keep track of courses offered, enrolled students, exam schedules and employed lecturers.
 Please help them build a Microsoft SQL database with the following specifications:
@@ -23,7 +25,7 @@ Please design + create a database schema that covers the above specifications an
 Also please send the script that will create this database with all tables, constraints, keys, default values, identity specifications, column data types etc.
 
 
-========== SECTION 2 ==========
+## SECTION 2
 Based on the above, Lorem Ipsum University realised that they also need a data structure to keep track of scheduled exams.  Exams are taken in person and there is one exam for each module (per semester)
 - An exam is written in a specific lecture hall, and lecture halls are scattered across the university's different campuses.
 - Exams are written at different times during any given day.
@@ -34,7 +36,7 @@ Somebody in the admin department started designing a rough database / entity str
 Please fix it for them.
 
 
-========== SECTION 3 ==========
+## SECTION 3
 After fixing the structure and integrating it with section 1, please write 2 simple optimised queries that will generate the exam time table per student, as well as a list of all students that should be 
 attending any given exam.
 
