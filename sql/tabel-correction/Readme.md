@@ -1,4 +1,4 @@
-![current db layout](./sql-denormalised-tables.jpg)
+![current db layout](./sql-denormalised-tables.png)
 
 ## SECTION 1 
 
