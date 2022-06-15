@@ -1,12 +1,14 @@
 Download the HTML and style the page. http://www.csszengarden.com/
 
 Rules: 
-One can have as many CSS files needed, but they should be logically organized
-One is not allowed to edit the HTML only the CSS and any animation should only be done in the CSS
-You will not be punished if you steal someone else's design as long as the code is yours
+We'd like for you to create a responsive version of Zen Garden using HTML5 and
+CSS3, and because we're assessing how you would approach this problem, we would
+ask that you don't make direct use of frameworks like Bootstrap, Foundation or
+Skeleton.
 
+It doesn't have to be pretty, but since it's a fairly simple page of content, we'd like to see it break down for tablet as well as mobile. You’ll get extra points for:
+Comments
+Performance enhancements
+Attached link to Figma design file
+Use of interesting CSS selectors
 
-Bonus points for 
-creativity
-an included link to Figma files
-responsiveness
