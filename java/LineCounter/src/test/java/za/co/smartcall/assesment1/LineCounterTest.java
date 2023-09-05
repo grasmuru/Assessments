@@ -57,4 +57,11 @@ public class LineCounterTest {
 			assertEquals("Number of lines calculated incorrect", 9,counter.calculateLinesInFile(f));
 	}
 
+	@Test
+	public void testFile4() throws URISyntaxException, IOException {
+			URI f = getFileFromResource("Test4.java");
+			LineCounter counter = new LineCounter();
+			assertEquals("Number of lines calculated incorrect", 9,counter.calculateLinesInFile(f));
+	}
+
 }
